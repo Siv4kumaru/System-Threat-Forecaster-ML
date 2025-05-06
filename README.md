@@ -1,6 +1,10 @@
 # System Threat Forecaster: Malware Prediction! 🦠💻
 
-Hey Everyone! 👋 Welcome to my project for IITM BS diploma Level Machine Learning Practice Course, here I tackled the challenge of predicting whether a Windows machine might get infected with malware. Think of it like a digital immune system check!
+Hey Everyone! 👋 Welcome to my project here I tackled the challenge of predicting whether a  computer might get infected with malware with a given data set. Think of it like a digital immune system check!
+
+This work was part for IITM BS diploma Level Machine Learning Practice Course, of the System Threat Forecaster competition on Kaggle! You can check it out here:
+
+**Competition Link:** [Kaggle/System-Threat-Forecaster](https://www.kaggle.com/competitions/System-Threat-Forecaster) 🏆
 
 ## The Mission 🎯
 
@@ -144,3 +148,8 @@ graph TD
     V --> W
     Z --> AA
 ```
+The Results! 🏅
+
+And the Winner Is... 🏆⚡ LightGBM!
+
+After all the steps – cleaning, transforming, selecting, and tuning – the final LightGBM model achieved an accuracy of about 64.86% on my validation set. Not bad for predicting pesky malware! 🎉🎯
