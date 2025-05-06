@@ -1,6 +1,6 @@
-# System Threat Forecaster: My Malware Prediction Adventure! 🚀🦠💻
+# System Threat Forecaster: Malware Prediction! 🦠💻
 
-Hey Everyone! 👋 Welcome to my project where I tackled the challenge of predicting whether a Windows machine might get infected with malware. Think of it like a digital immune system check!
+Hey Everyone! 👋 Welcome to my project for IITM BS diploma Level Machine Learning Practice Course, here I tackled the challenge of predicting whether a Windows machine might get infected with malware. Think of it like a digital immune system check!
 
 ## The Mission 🎯
 
